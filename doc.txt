@@ -1,0 +1,10 @@
+1. Para transformar a pasta em um projeto Node JS: 
+npm init -y
+
+2. Instalar o Express - servidor de http
+npm install express
+
+3. Instalar o driver do mysql
+npm install mysql2
+
+4.Instalar o nodemon (npm install nodemon)

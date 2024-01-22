@@ -1,0 +1,14 @@
+footer {
+    background: url('../imagens/bg.png');
+    text-align: center;
+    padding-bottom: 1px;
+}
+
+footer >  img {
+    height: 80px;
+}
+
+footer > p {
+    color: #fff;
+    font-size: 10px;
+}
